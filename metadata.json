@@ -1,0 +1,6 @@
+{
+  "name": "Asisten Kurikulum Merdeka SMA",
+  "description": "Generator Perangkat Ajar Kurikulum Merdeka SMA otomatis berbasis AI Gemini untuk Modul Ajar, ATP, CP, PROTA, dan PROSEM terstandar Kemendikbudristek RI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
